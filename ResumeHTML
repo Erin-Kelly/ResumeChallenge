@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	<link href='http://fonts.googleapis.com/css?family=Dancing+Script:400,700' rel='stylesheet' type='text/css'>
+	<link rel="stylesheet" href="resumeCSS.css">
+	<Style>
+	ul {font-color:#311811;}
+	h1 {font-family: 'Dancing Script', cursive; font-size:750;}
+	</style>
+	</head>
+	<body background="https://farm8.staticflickr.com/7575/16343463291_f9e456b70d_o.png" link="#311811">
+	<font color="#311811">
+	<h1>
+	<img src="https://farm8.staticflickr.com/7523/15077857014_d0b2fbfc15_m.jpg">
+	Erin Kelly
+	</h1>
+	<h2>
+	Education</h2>
+	<ul> 
+	<li>School: St. Olaf College, Northfield, MN</li>
+	<li>Degree: Bachelor of Arts, English</li>
+	</ul>
+	<h2>Work Experience</h2>
+	<h3>Field Associate</h3>
+	<h4><i>Food Perspectives, Inc.   Plymouth, MN   February 2013-Present</i></h4>
+	<ul><li>Perform various tasks to ensure a successful product evaluation.</li>
+	<ul>Tasks include:
+	 <ul>
+	 <li>Setting up the room for respondents</li>
+	 <li>Setting up and tearing down iPads or paper ballots</li>
+	 <li>Preparing product in the kitchen.</li>
+	 <li>Potographing product</li>
+	 <li>Tracking product on a serve rotation</li>
+	 <li>Checking respondents into the computer using salesforce</li>
+	 <li>Writing reports and critical issues using salesforce</li>
+	 <li>Tracking quotas for respondents both on paper and using reports in salesforce.</li></p>
+	 </ul>
+	 </ul>
+	 </ul>
+	<h3>Customer Advocate</h3>
+	<h4><i>comiXology   New York, NY (working remotely)   April 2012-April 2014</i></h4>
+	<ul>
+	<li>Respond to customer emails in a timely and professional fashion</li> 
+	<li>Create and maintain friendly rapport with customers via email and social media</li>
+	<li>Resolve customer issues using software tools.</li>
+	<li>Troubleshoot customer issues using the web and handheld devices.</li>
+	<li>Report and track customer errors to the production team.</li>
+	</ul>
+	<h3>Attorney Editor Contractor</h3>
+	<h4><i>Thomson Reuters   Eagan, MN   March-August 2011</i></h4>
+	<ul>
+	<li>Created content for a database containing information from courts around the country</li>
+	<li>Analyzed court cases for content requirements across a number of courts</li>
+	<li>Summarized cases in various courts using Microsoft Word, with a focus on highlighting important facts while maintaining clarity of narrative</li>
+	</ul>
+	<h3>Paralegal Contractor (Part Time)</h3>
+	<h4><i>Thomson Reuters   Eagan, MN   June 2010-December 2010</i></h4>
+	<ul>
+	<li>Helped create and maintain West Courtwire, a continuously updating database of current court cases</li>
+	<li>Provided feedback to court reporters in the field about the quality and accuracy of their work</li>
+	<li>Tested functionality of web forms used in content creation</li>
+	<li>. Created spreadsheets for error documentation using Microsoft Excel. Tracked entries and errors using Microsoft Office</li>
+	<li>Conducted a comparative analysis between Westlaw Courtwire and a competing product using Excel and presented the findings by creating a Microsoft PowerPoint presentation</li>
+	</ul>
+	<h3>Publishing Specialist Contractor</h3>
+	<h4><i>Thomson Reuters   Eagan, MN   September 2009-May 2010</i></h4>
+	<ul>
+	<li>Prepared KeyRules books for print using XML, Microsoft Word, and Adobe Acrobat</li>
+	<li>Coordinated with members of the KeyRules team in Eagan, Rochester, and Manilla to create and assemble print components</li>
+	<li>Reviewed pages for typesetting, spelling errors, and continuity</li>
+	<li>Worked with other members of the KeyRules team to create and maintain the online product</li>
+	<li>Made citation corrections to print and online documents</li>
+	<li>Developed and tested training materials for team members in Manila</li>
+	</ul>
+	<h3>Customer Service Representative</h3>
+	<h4><i>ShopNBC   Eden Prairie, Minnesota   July 2009-September 2009</i></h4>
+	<ul>
+	<li>Fielded calls from customers using Oracle, for both customer service and order capture purposes</li>
+	<li>Created a rapport and fostered empathy with customers</li>
+	<li>Maintained a thorough knowledge of ShopNBC products, policies, and vendors in order to help customers quickly and efficiently</li>
+	</ul>
+	<h3>Web Editorial Intern</h3>
+	<h4><i>Marvel Entertainment, Inc.   New York, NY   September 200?--December 2008</i></h4>
+	<ul>
+	<li>Wrote stories using the Marvel.com house style and used HTML to format them for <a href="http://www.Marvel.com">Marvel.com</a></li>
+	<li>Assisted with the <a href="http://twitter.com/Marvel">Marvel Twitter account</a></li>
+	<li>Answered questions, conducted surveys, and announced news stories</li>
+	<li>Interviewed creators, designers, and others about their upcoming Marvel projects</li>
+	<li>Used Adobe Photoshop to create banner images and to edit story images</li>
+	<li>Created promotional plans for major releases (i.e. Feature Films, TV show premieres, DVD releases)</li>
+	</ul>
+	<h2>Additional Work</h2>
+	<ul>
+	<li>Public Service Assistant - Hennepin County Library - June 2014-October 2014</li>
+	<li>Salesperson - Halloween Fun Shop - September 2012-November 2012</li>
+	<li>Tutor - College Nannies and Tutors - September 2011-June 2011</li>
+	</font>
+	</body
+</html>
